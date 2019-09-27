@@ -1,0 +1,6 @@
+export default {
+  url: '',
+  issuer: '',
+  redirectUri: window.location.origin + '/implicit/callback',
+  clientId: ''
+};
